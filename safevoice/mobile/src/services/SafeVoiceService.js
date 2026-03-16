@@ -437,4 +437,3 @@ class SafeVoiceService {
 }
 
 export const safevoiceService = new SafeVoiceService();
-
